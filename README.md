@@ -33,10 +33,13 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-
 ### Projects
 
 [![](https://img.shields.io/badge/React_Quiz-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dibrovgleb.github.io/react-projects/)
+[![](https://img.shields.io/badge/Pixi.js_Game-ca3762?style=for-the-badge&logo=Three.js&logoColor=fff)](https://dibrovgleb.github.io/numbersgame/)
+[![](https://img.shields.io/badge/RWD_Landing-62BF40?style=for-the-badge&logo=Figma&logoColor=fff)](https://dibrovgleb.github.io/landing/)
+[![](https://img.shields.io/badge/🛒_Shop_page-007bff?style=for-the-badge)](https://dibrovgleb.github.io/dz/)
+
 
 
 ### IDE, OS
