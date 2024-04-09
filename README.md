@@ -6,14 +6,15 @@
 
 ## :gear: Technologies
 
+![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-181717?style=for-the-badge&logo=redux&logoColor=593D88)
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![jQuery](https://img.shields.io/badge/jQuery-181717?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![Nodejs](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs&logoColor=43853D)
 ![PHP](https://img.shields.io/badge/php-181717?style=for-the-badge&logo=php&logoColor=#FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-181717?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Nodejs](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs&logoColor=43853D)
 ![SASS](https://img.shields.io/badge/Sass-181717?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Material-Design](https://img.shields.io/badge/material%20design-181717?style=for-the-badge&logo=material%20design&logoColor=0081CB)
@@ -31,6 +32,8 @@
 ### :link: Projects
 
 [![](https://img.shields.io/badge/React_Quiz-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dibrovgleb.github.io/react-projects/)
+[![](https://img.shields.io/badge/🎱_React_billiard-b06430?style=for-the-badge)](https://dibrovgleb.github.io/react-billiard/)
+[![](https://img.shields.io/badge/🚗_React_landing-797979?style=for-the-badge)](https://dibrovgleb.github.io/react-billiard/)
 [![](https://img.shields.io/badge/RPSGame-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://dibrovgleb.github.io/RPSGame/)
 [![](https://img.shields.io/badge/Pixi.js_Game-ca3762?style=for-the-badge&logo=Three.js&logoColor=fff)](https://dibrovgleb.github.io/numbersgame/)
 [![](https://img.shields.io/badge/RWD_Landing-62BF40?style=for-the-badge&logo=Figma&logoColor=fff)](https://dibrovgleb.github.io/landing/)
