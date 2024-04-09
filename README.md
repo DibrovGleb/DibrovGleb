@@ -33,7 +33,7 @@
 
 [![](https://img.shields.io/badge/React_Quiz-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dibrovgleb.github.io/react-projects/)
 [![](https://img.shields.io/badge/🎱_React_billiard-b06430?style=for-the-badge)](https://dibrovgleb.github.io/react-billiard/)
-[![](https://img.shields.io/badge/🚗_React_landing-797979?style=for-the-badge)](https://dibrovgleb.github.io/react-billiard/)
+[![](https://img.shields.io/badge/🚗_React_landing-797979?style=for-the-badge)](https://dibrovgleb.github.io/lego-landing/)
 [![](https://img.shields.io/badge/RPSGame-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://dibrovgleb.github.io/RPSGame/)
 [![](https://img.shields.io/badge/Pixi.js_Game-ca3762?style=for-the-badge&logo=Three.js&logoColor=fff)](https://dibrovgleb.github.io/numbersgame/)
 [![](https://img.shields.io/badge/RWD_Landing-62BF40?style=for-the-badge&logo=Figma&logoColor=fff)](https://dibrovgleb.github.io/landing/)
