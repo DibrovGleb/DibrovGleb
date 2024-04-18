@@ -35,10 +35,11 @@
 [![](https://img.shields.io/badge/🎱_React_billiard-b06430?style=for-the-badge)](https://dibrovgleb.github.io/react-billiard/)
 [![](https://img.shields.io/badge/🚗_React_landing-797979?style=for-the-badge)](https://dibrovgleb.github.io/lego-landing/)
 [![](https://img.shields.io/badge/RPSGame-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://dibrovgleb.github.io/RPSGame/)
-<!-- [![](https://img.shields.io/badge/Pixi.js_Game-ca3762?style=for-the-badge&logo=Three.js&logoColor=fff)](https://dibrovgleb.github.io/numbersgame/) -->
 [![](https://img.shields.io/badge/RWD_Landing-62BF40?style=for-the-badge&logo=Figma&logoColor=fff)](https://dibrovgleb.github.io/landing/)
 [![](https://img.shields.io/badge/🛒_Shop_page-007bff?style=for-the-badge)](https://dibrovgleb.github.io/dz/)
 [![](https://img.shields.io/badge/Learn_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://dibrovgleb.github.io/LearnHtml/index.html)
+
+<!-- [![](https://img.shields.io/badge/Pixi.js_Game-ca3762?style=for-the-badge&logo=Three.js&logoColor=fff)](https://dibrovgleb.github.io/numbersgame/) -->
 
 ### :computer: IDE, OS
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
